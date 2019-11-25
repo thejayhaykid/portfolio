@@ -1,6 +1,6 @@
 baseURL = "http://jakehayes.net"
 languageCode = "en-us"
-title = "Jake Hayes's Portfolio Site and Blog"
+title = "Jake Hayes"
 theme = "LoveIt"
 enableGitInfo = false                                    # whether to use git commit log to generate lastmod record
 hasCJKLanguage = false                                   # whether to include chinese/japanese/korean
@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 staticDir = ["static", "../assets/others"]               # static directories
 
 [author]                                              #### Author Info
-  name = "XXXX"
+  name = "Jake Hayes"
 
 [sitemap]                                             #### Sitemap Info
   changefreq = "weekly"
@@ -55,12 +55,6 @@ staticDir = ["static", "../assets/others"]               # static directories
     name = "About"
     url = "about"
     weight = 4
-
-  [[menu.main]]
-    identifier = "zh"
-    name = '<i class="fas fa-language fa-fw"></i>'
-    url = "https://hugo-loveit-zh.netlify.com"
-    weight = 5
 
 [params]
   version = "5.x"                                        # LoveIt theme version
