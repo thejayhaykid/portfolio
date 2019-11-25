@@ -2,9 +2,9 @@
 title: "My First Post"
 date: 2019-11-24T16:22:42+08:00
 lastmod: 2019-11-24T16:22:42+08:00
-draft: false
+draft: true
 description: "My first post"
-show_in_homepage: true
+show_in_homepage: false
 show_description: false
 license: ''
 
