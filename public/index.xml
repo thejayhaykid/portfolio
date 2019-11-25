@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Jake Hayes&#39;s Portfolio Site and Blog on Jake Hayes&#39;s Portfolio Site and Blog</title>
+        <link>http://jakehayes.net/</link>
+        <description>Recent content in Jake Hayes&#39;s Portfolio Site and Blog on Jake Hayes&#39;s Portfolio Site and Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>en-us</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Sat, 23 Nov 2019 11:54:34 -0500</lastBuildDate>
+        
+        <atom:link href="http://jakehayes.net/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>http://jakehayes.net/posts/</link>
+                <pubDate>Sat, 23 Nov 2019 11:54:34 -0500</pubDate>
+                
+                <guid>http://jakehayes.net/posts/</guid>
+                <description></description>
+            </item>
+        
+            <item>
+                <title></title>
+                <link>http://jakehayes.net/about/</link>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+                
+                <guid>http://jakehayes.net/about/</guid>
+                <description>
+
+&lt;h1 id=&#34;jake-hayes&#34;&gt;Jake Hayes&lt;/h1&gt;
+
+&lt;p&gt;I am a software developer from Columbus, Ohio who is seeking a position that would allow me to incorporate my design agility and problem-solving skills in order to advance your business. As a developer with a design acumen, I am able to apply those skills to different architectural patterns to fit your company’s needs. Software development is not just my career, it is part of who I am and it’s what I love doing. I am looking for a new opportunity because I have been able to accomplish everything I set out to do in my current position and I am looking forward to new challenges and opportunities to grow and expand my knowledge of cutting edge technology.&lt;/p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
