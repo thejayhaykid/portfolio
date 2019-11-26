@@ -8,8 +8,8 @@ show_in_homepage: false
 show_description: false
 license: ''
 
-tags: ['Jake', 'Hayes', 'Developer']
-categories: ['Documentation']
+tags: ['Personal']
+categories: ['Personal']
 
 featured_image: ''
 featured_image_preview: ''
