@@ -29,3 +29,8 @@ HUGO_VERSION = "0.59.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+  force = true
