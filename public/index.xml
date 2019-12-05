@@ -12,14 +12,14 @@
             <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         
         
-            <lastBuildDate>Sun, 24 Nov 2019 16:22:42 +0800</lastBuildDate>
+            <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
         
         <atom:link href="http://jakehayes.net/" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>Posts</title>
                 <link>http://jakehayes.net/posts/</link>
-                <pubDate>Sun, 24 Nov 2019 16:22:42 +0800</pubDate>
+                <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
                 
                 <guid>http://jakehayes.net/posts/</guid>
                 <description></description>
@@ -35,7 +35,53 @@
 
 &lt;h1 id=&#34;jake-hayes&#34;&gt;Jake Hayes&lt;/h1&gt;
 
-&lt;p&gt;I am a software developer from Columbus, Ohio.&lt;/p&gt;
+&lt;p&gt;A software developer from Columbus, Ohio, who graduated from The Ohio State University, with a degree in Geographic Information Science and a minor in Design. Currently, I work as a software consultant supporting the client’s main customer management system.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+
+&lt;p&gt;My passion is learning new technologies and ways to implement them.&lt;/p&gt;
+
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+
+&lt;p&gt;I am highly experienced with Python—a highly versatile language I have used in a variety of settings, including :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geospatial analysis (arcpy)&lt;/li&gt;
+&lt;li&gt;Simple web scraping (beautiful soup, requests)&lt;/li&gt;
+&lt;li&gt;A simple Discord bot (discord.py)&lt;/li&gt;
+&lt;li&gt;Basic level web applications (django and flask tutorials)&lt;/li&gt;
+&lt;li&gt;Excel scripting (openpyxl)&lt;/li&gt;
+&lt;li&gt;Easy CLI applications (Click)&lt;/li&gt;
+&lt;li&gt;Testing (pytest)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;go&#34;&gt;Go&lt;/h3&gt;
+
+&lt;p&gt;My main focus with this language has been on backend web development with some CLI applications as well.&lt;/p&gt;
+
+&lt;h3 id=&#34;javascript&#34;&gt;JavaScript&lt;/h3&gt;
+
+&lt;p&gt;As the language of the Internet, JavaScript is a critical component to any web developers portfolio. I have taught myself a variety of JavaScript frameworks and have supported an internal project that used React. I have also used Vue.js in multiple personal projects.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;With my background in design, I have an affinity for the aesthetics of software. I also enjoy making both mobile and desktop wallpapers and use whatever application will help me complete my vision the best. I am not afraid to venture into unknown applications and languages, as I strive to create the best possible outcome for my clients.&lt;/p&gt;
+
+&lt;h3 id=&#34;adobe-illustrator&#34;&gt;Adobe Illustrator&lt;/h3&gt;
+
+&lt;p&gt;I am well versed in Adobe Illustrator My work has focused on logo designs, book cover illustrations, holiday celebrations, and web pages.&lt;/p&gt;
+
+&lt;h3 id=&#34;adobe-photoshop&#34;&gt;Adobe Photoshop&lt;/h3&gt;
+
+&lt;p&gt;Photoshop is another avenue of expertise. Digital painting, photo editing, and photo compositions are just a few examples of the work I have done. In my free time I have edited I a variety of sports related graphics for fun, as this is a passion of mine.&lt;/p&gt;
+
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+
+&lt;p&gt;Adobe Creative Cloud products, including InDesign, XD, Premiere Pro, AfterEffects, and Lightroom, round out my repertoire of experience. As an eager and avid learner, I seek out opportunities to learn new programming languages and applications. No job is too small and no one will out work me or out learn me. I would welcome the opportunity to show you and your business all the possibilities I can create for an innovative, leading-edge web presence.&lt;/p&gt;
 </description>
             </item>
         

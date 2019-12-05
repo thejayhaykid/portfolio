@@ -1,9 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
+            <loc>http://jakehayes.net/2019/11/python-kata/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
             <loc>http://jakehayes.net/categories/</loc>
             
-                <lastmod>2019-11-24T16:22:42+08:00</lastmod>
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -17,7 +31,105 @@
         <url>
             <loc>http://jakehayes.net/</loc>
             
-                <lastmod>2019-11-24T16:22:42+08:00</lastmod>
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/tags/kata/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/posts/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/tags/pytest/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/tags/python/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/categories/python/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/tags/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>http://jakehayes.net/tags/test-driven-development/</loc>
+            
+                <lastmod>2019-11-26T00:00:00+00:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -30,20 +142,6 @@
     
         <url>
             <loc>http://jakehayes.net/2019/11/my-first-post/</loc>
-            
-                <lastmod>2019-11-24T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>http://jakehayes.net/categories/personal/</loc>
             
                 <lastmod>2019-11-24T16:22:42+08:00</lastmod>
             
@@ -71,21 +169,7 @@
         </url>
     
         <url>
-            <loc>http://jakehayes.net/posts/</loc>
-            
-                <lastmod>2019-11-24T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>http://jakehayes.net/tags/</loc>
+            <loc>http://jakehayes.net/categories/personal/</loc>
             
                 <lastmod>2019-11-24T16:22:42+08:00</lastmod>
             
