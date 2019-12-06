@@ -112,7 +112,7 @@ staticDir = ["static", "../assets/others"]               # static directories
   [params.social]                                        # Social Info in home page
     GitHub = "thejayhaykid"
     Linkedin = "jakejhayes"
-    Twitter = "thejayhaykid"
+    #Twitter = "thejayhaykid"
     FreeCodeCamp = "thejayhaykid"
     #Instagram = "xxxx"
     Email = "jakejhayes@gmail.com"
