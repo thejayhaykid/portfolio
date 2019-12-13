@@ -22,6 +22,8 @@ math: true
 
 # Babysitter Kata
 
+*Note: This post is still a work in progress.*
+
 [Description of the Problem](https://github.com/PillarTechnology/kata-babysitter)
 
 [Github link to source code](https://github.com/thejayhaykid/babysitter-kata)

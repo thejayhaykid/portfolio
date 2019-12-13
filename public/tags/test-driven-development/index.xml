@@ -18,10 +18,11 @@
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://jakehayes.net/2019/11/python-kata/</guid>
-      <description>Babysitter Kata Description of the Problem
+      <description>Babysitter Kata Note: This post is still a work in progress.
+Description of the Problem
 Github link to source code
 Description  This kata simulates a babysitter working and getting paid for one night. The rules are pretty straight forward.
- Initial Thoughts For this exercise I was given the option to select my own language from a list, I decided to go with Python as it is one of the languages I am most comfortable with. After spending over a year listening to both the PythonBytes and Test &amp;amp; Code podcasts, I had heard enough from Brian Okken to use pytest as the &amp;ldquo;test&amp;rdquo; part of my test driven development.</description>
+ Initial Thoughts For this exercise I was given the option to select my own language from a list, I decided to go with Python as it is one of the languages I am most comfortable with.</description>
     </item>
     
   </channel>
