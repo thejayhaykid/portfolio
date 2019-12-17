@@ -29,6 +29,11 @@ My main focus with this language has been on backend web development with some C
 ### JavaScript
 
 As the language of the Internet, JavaScript is a critical component to any web developers portfolio. I have taught myself a variety of JavaScript frameworks and have supported an internal project that used React. I have also used Vue.js in multiple personal projects.
+
+I even have 2 certifications related to JavaScript from [FreeCodeCamp.org](https://www.freecodecamp.org): 
+
+1. [Responsive Web Design](https://www.freecodecamp.org/certification/thejayhaykid/responsive-web-design)
+2. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/thejayhaykid/javascript-algorithms-and-data-structures)
  
 ---
 
